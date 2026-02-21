@@ -6,3 +6,4 @@
 
 **Application:**
 Slant-Truth is the language of the Luminous Legends. It is why we use Sigils and Relics to document our history—because a literal archive would fail to capture the actual frequency of the experience.
+ 
